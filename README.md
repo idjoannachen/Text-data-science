@@ -1,4 +1,4 @@
-# Text Data Science using Python
+# Text Data Science, Spring 2020
 
 #### Lab 2: Dictionaries and Hashing (Dataset: Gutenberg books)
 #### Lab 3: Regular Expression (Dataset: Gutenberg books)
